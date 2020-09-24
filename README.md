@@ -1,2 +1,6 @@
 # watch testing of kiwi 
-motor testing after connection
+Testing : 
+  Heart Rate
+  Blood Pressure
+  Blood Oxygen
+  Find Band
